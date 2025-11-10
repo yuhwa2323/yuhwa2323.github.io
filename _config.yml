@@ -1,0 +1,9 @@
+# _config.yml 파일 내용
+
+# 사용할 테마 지정 (다른 사람의 GitHub 리포지토리 주소)
+remote_theme: "mmistakes/minimal-mistakes"
+
+# --- 기본 사이트 설정 ---
+title: "제 블로그입니다"
+description: "이곳에 홈페이지 설명을 적으세요."
+url: "https://yuhwa2323.github.io" # 본인 주소로 변경!
